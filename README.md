@@ -1,2 +1,1 @@
-# DSA-PRR
-INDIVIDUAL PROJECT
+//Appiah Richard - 10886015
